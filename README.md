@@ -1,7 +1,7 @@
 # Billboard_Music_REST_API
 
 ##This web application works based on web services (REST APIs) powered by Billboard.com and YouTube.com. <br/>
-##Designed and developed by ZOE group using REST API, JSON, JavaScript, CSS, HTML5 and caching API responses on the Local Storage. <br/>
+##Designed and developed by ZOE group using REST API, JSON, JavaScript, CSS, Bootstrap, HTML5 and caching API responses on the Local Storage. <br/>
 
 ##Team members:
 #Jerome Olivier
