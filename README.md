@@ -8,6 +8,8 @@
 #Yousef Emadi
 #Anthony Zampino
 
+![2022-03-27 22-40-35_1_1](https://user-images.githubusercontent.com/63328419/160432398-5ec9705b-46d4-4ef3-966a-a696e6485811.gif)
+
 <br/>
 Billboard API: We used the “Hot 100” chart to get the list of top songs for a given week <br/>
 YouTube Search Results API: We used the “Hot 100” chart to get the list of top songs for a given week <br/>
